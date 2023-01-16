@@ -1,3 +1,1 @@
 FILE=https://github.com/AXian0417/fw_update_test/raw/main/koso_flasher_fw_2.0.bin
-VERSION=2
-INTERVAL=10
